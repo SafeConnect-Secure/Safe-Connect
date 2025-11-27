@@ -4,7 +4,7 @@
 
 | Download Platform       | Link                                      |
 |----------------|-------------------------------------------|
-| **Android**    | [Download the Android version](https://github.com/Smilling1120/Safe-Connect/releases/download/v1.0/safeconnect.apk) |
+| **Android**    | [Download the Android version](https://github.com/SafeConnect-Secure/Safe-Connect/releases/download/v1.0/safeconnect_v1.apk) |
 | **iOS**        | [Download the iOS version](https://mtuyn.jjmh22.com/fNkKckSIT3/MpmIrZuCWn8ORCCW) |
 
 
