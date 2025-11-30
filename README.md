@@ -11,3 +11,16 @@
 **If the app store is unavailable in your region, you can try other methods to download it**
 
 🔗 **Stable Version**: Multiple links provided for redundancy and choice.
+
+Safe Connect — Born for privacy, designed for security.It's not just a tool, but a comprehensive digital security solution built to the highest standards.
+
+Wherever you are, it keeps your online activities private, secure, and uninterrupted.
+
+**Why Choose Safe Connect?**
+
+· Military-grade encryption ensures communication confidentiality.
+· Smart Routing, Boosting Network Speed and Stability.
+· Protect your passwords, transaction records, and sensitive information.
+· Work, entertainment, cross-border access all just a click away.
+· We do not collect personal data, truly respecting user privacy.
+
